@@ -1,3 +1,6 @@
+## Project Repository
+
+[View Expense Tracker on GitHub](https://github.com/durgeshdev264/expense-tracker)
 # CLI Expense Tracker
 
 A command-line expense tracking application built with Python. It allows users to record expenses, view expense history, and summarize spending by category.
